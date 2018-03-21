@@ -62,6 +62,7 @@
 - [McElroy, Daphne (@Dakota2525)](https://github.com/Dakota2525/liftoff-assignments)
 - [Min, Alex (@amreever)](https://github.com/amreever/liftoff-assignments)
 - [PERDUE, JOHN (@johnperdue05)](https://github.com/johnperdue05/liftoff-assignments)
+- [Swanson, Nicole (@Ms-Blue-Canary)](https://github.com/Ms-Blue-Canary/liftoff-assignments)
 
 ### Michael Corey-Yares' Group
 - [Chapman, Tyler (@tylerchapman)](https://github.com/tylerchapman/liftoff-assignments)
