@@ -9,9 +9,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+- Sign up and login pages: Users should have to sign up and sign in before they can post
+- Profile pages: Users can crustomize their profile pages; pages should be able to show rank in non-profit (regular volunteer vs. owners) and have a place to PM each other.
+- Messaging in realtime: Users can message each other in real time a la Slack
+- Forums: Places for users to post and respond to posts; able to be set public and private by mods
+
+
 ### Technologies
-Include Technologies here
+- Java
+- Bootstrap or Javascript
+- Database (NO IDEA what database to use)
+- Messagining... thing...
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+- Better databases
+- How to separate mods and normal users
+- How to allow uses to PM each other
+- Realtime messaging
