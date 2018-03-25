@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![alt text](/launchcode images/login.jpg "Login page wireframe")
+![profile](https://user-images.githubusercontent.com/31869348/37878617-90e02ad2-3031-11e8-898c-d474b198a4ee.jpg)
 
-![alt text](/launchcode images/profile.jpg "Profile page wireframe")
+![login](https://user-images.githubusercontent.com/31869348/37878620-9505c7ac-3031-11e8-9acf-d4bc35818cd0.jpg)
 
-![alt text](/launchcode images/forum access.jpg "Forum access page wireframe")
+![forum acess](https://user-images.githubusercontent.com/31869348/37878621-97ba6980-3031-11e8-84ea-02a3bcc45f67.jpg)
 
 ### Project Tracker
 
