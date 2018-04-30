@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/Ms-Blue-Canary
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/nicki-swanson-780b54126/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://drive.google.com/open?id=1oFgcGHBESubgU7JFwid0I6GSINFkuG7f
